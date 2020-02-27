@@ -1,0 +1,23 @@
+{
+  "id": "1513589",
+  "name": "MZW",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5738748",
+      "name": "游戏-1",
+      "font_class": "youxi-",
+      "unicode": "edc8",
+      "unicode_decimal": 60872
+    },
+    {
+      "icon_id": "5738788",
+      "name": "游戏-44",
+      "font_class": "youxi-1",
+      "unicode": "edd9",
+      "unicode_decimal": 60889
+    }
+  ]
+}
